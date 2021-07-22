@@ -363,16 +363,16 @@ template {
 }
 
 @font-face {
+  src: url(./fonts/TTLakes-Bold.ttf);
   font-family: ttlakes-bold;
-  src: url(/src/fonts/TTLakes-Bold.ttf);
 }
 @font-face {
+  src: url(./fonts/TTLakes-Medium.ttf);
   font-family: ttlakes-medium;
-  src: url(/src/fonts/TTLakes-Medium.ttf);
 }
 @font-face {
+  src: url(./fonts/TTLakes-Regular.ttf);
   font-family: ttlakes-regular;
-  src: url(/src/fonts/TTLakes-Regular.ttf);
 }
 /* -> reset.scss */
 :root {
